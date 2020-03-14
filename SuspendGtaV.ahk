@@ -1,7 +1,3 @@
 ﻿^+p::	; Ctrl + Shift + P
-	Loop ;
-	{
-	Run, C:\Users\kszab\Documents\Automated Scripts ; Run suspend command for GtaV
-	Reload
-	}
+	Run, C:\Users\kszab\Documents\GitHub\Suspend-GtaV\SuspendGtaV.exe ; Run suspend command for GtaV
 Return
